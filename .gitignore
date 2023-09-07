@@ -49,7 +49,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-/.vs/Vortex-Suite
+/.vs
 /planning
 /*/RCa*
 Thumbs.db
